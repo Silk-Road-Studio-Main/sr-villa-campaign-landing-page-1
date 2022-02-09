@@ -5,4 +5,4 @@ The site indends to collect leads through sign ups done by the users in order to
 
 Preview the site here: https://silk-road-studio-main.github.io/sr-villa-campaign-landing-page-1
 
-![The San Juan Mountains are beautiful!](/img/thumbnail.png "Screenshot of the website")
+![The hero section of the website!](/img/thumbnail.png "Screenshot of the website")
